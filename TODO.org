@@ -1,0 +1,4 @@
+* Ideas to try
+ - [ ] ensembling (w/neural network)
+ - [ ] cross-validation
+ - [ ] undersampling
